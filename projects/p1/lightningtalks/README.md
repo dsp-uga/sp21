@@ -19,7 +19,7 @@ The team name theme for Project 1: [*Bridgerton characters*](https://en.wikipedi
 **Hyacinth**
 - Aishwarya Venkataraj, Ankit Lalwani, Divya Yadava
 - [GitHub](https://github.com/dsp-uga/team-hyacinth-p1)
-- []
+- [pptx](hyacinth/hyacinth.pptx)
 
 **Anthony**
 - Nathan Wynn, Zhou Zhongliang, Shivam Chandan
